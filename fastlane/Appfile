@@ -1,0 +1,2 @@
+json_key_file("C:\Users\Kavish\Documents\Temp\android-items80904019693-c22d8386e7cf.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("com.kavish.sampleandroidapp") # e.g. com.krausefx.app
